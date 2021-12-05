@@ -1,0 +1,22 @@
+C:\Users\Pavel\source\repos\Game of Life\Game of Life\bin\Release\net5.0-windows\Game of Life.exe
+C:\Users\Pavel\source\repos\Game of Life\Game of Life\bin\Release\net5.0-windows\Game of Life.deps.json
+C:\Users\Pavel\source\repos\Game of Life\Game of Life\bin\Release\net5.0-windows\Game of Life.runtimeconfig.json
+C:\Users\Pavel\source\repos\Game of Life\Game of Life\bin\Release\net5.0-windows\Game of Life.runtimeconfig.dev.json
+C:\Users\Pavel\source\repos\Game of Life\Game of Life\bin\Release\net5.0-windows\Game of Life.dll
+C:\Users\Pavel\source\repos\Game of Life\Game of Life\bin\Release\net5.0-windows\ref\Game of Life.dll
+C:\Users\Pavel\source\repos\Game of Life\Game of Life\bin\Release\net5.0-windows\Game of Life.pdb
+C:\Users\Pavel\source\repos\Game of Life\Game of Life\obj\Release\net5.0-windows\Game_of_Life.Form1.resources
+C:\Users\Pavel\source\repos\Game of Life\Game of Life\obj\Release\net5.0-windows\Game of Life.csproj.GenerateResource.cache
+C:\Users\Pavel\source\repos\Game of Life\Game of Life\obj\Release\net5.0-windows\Game of Life.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel\source\repos\Game of Life\Game of Life\obj\Release\net5.0-windows\Game of Life.AssemblyInfoInputs.cache
+C:\Users\Pavel\source\repos\Game of Life\Game of Life\obj\Release\net5.0-windows\Game of Life.AssemblyInfo.cs
+C:\Users\Pavel\source\repos\Game of Life\Game of Life\obj\Release\net5.0-windows\Game of Life.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\Game of Life\Game of Life\obj\Release\net5.0-windows\Game of Life.dll
+C:\Users\Pavel\source\repos\Game of Life\Game of Life\obj\Release\net5.0-windows\ref\Game of Life.dll
+C:\Users\Pavel\source\repos\Game of Life\Game of Life\obj\Release\net5.0-windows\Game of Life.pdb
+C:\Users\Pavel\source\repos\Game of Life\Game of Life\obj\Release\net5.0-windows\Game of Life.genruntimeconfig.cache
+C:\Users\Pavel\source\repos\Game of Life\Game of Life\obj\Release\net5.0-windows\Game of Life.csproj.AssemblyReference.cache
+C:\Users\Pavel\source\repos\Game of Life\Game of Life\obj\Release\net5.0-windows\Game_of_Life.Options.resources
+C:\Users\Pavel\source\repos\Game of Life\Game of Life\obj\Release\net5.0-windows\Game_of_Life.Properties.Resources.resources
+C:\Users\Pavel\source\repos\Game of Life\Game of Life\obj\Release\net5.0-windows\Game_of_Life.SeedDialogue.resources
+C:\Users\Pavel\source\repos\Game of Life\Game of Life\obj\Release\net5.0-windows\Game_of_Life.To_Dialogue.resources
